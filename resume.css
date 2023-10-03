@@ -1,0 +1,32 @@
+body {
+    background-color:white;
+  }
+.resume{
+    background-color:papayawhip;
+    outline-style: solid ;
+}
+.intro{
+    background:rgb(100, 153, 233);
+}
+.about-me{
+    background-color: rgb(158, 221, 255);
+}
+.Skills{
+    background-color:rgb(166, 246, 255) ;
+}
+.Languages{
+    background-color: rgb(190, 255, 247);
+}
+.education{
+    background:rgb(238, 244, 243);
+}
+.about-me-head{
+    color: coral;
+    text-decoration-line: underline
+}
+.body{
+    color:darkblue;
+}
+.name{
+    text-shadow: 2px 2px 5px white
+}
